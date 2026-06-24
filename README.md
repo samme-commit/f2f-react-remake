@@ -38,3 +38,25 @@ Built with React, TypeScript, Vite, ReactBits, Font Awesome, HTML and CSS.
 
 This is an unofficial fan-made redesign created for learning and portfolio purposes. Fears to Fathom and related assets belong to their original creators and rights holders.
 
+
+
+\## Screenshots
+
+
+
+\### Hero Section
+
+
+
+!\[Hero section](./screenshots/hero.png)
+
+
+
+\### Episodes Section
+
+
+
+!\[Episodes section](./screenshots/episodes.png)
+
+
+
