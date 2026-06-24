@@ -1,4 +1,4 @@
-\# Fears to Fathom — Fan Website Redesign
+# Fears to Fathom — Fan Website Redesign
 
 
 
@@ -10,29 +10,29 @@ Built with React, TypeScript, Vite, ReactBits, Font Awesome, HTML and CSS.
 
 
 
-\## Features
+## Features
 
 
 
-\- Horror-inspired landing page
+- Horror-inspired landing page
 
-\- Animated Dock navigation
+- Animated Dock navigation
 
-\- Spotlight episode cards
+- Spotlight episode cards
 
-\- Latest release highlight
+- Latest release highlight
 
-\- Orbiting tech stack section
+- Orbiting tech stack section
 
-\- Official links/community section
+- Official links/community section
 
-\- Responsive design
+- Responsive design
 
-\- Fan-made disclaimer
+- Fan-made disclaimer
 
 
 
-\## Disclaimer
+## Disclaimer
 
 
 
