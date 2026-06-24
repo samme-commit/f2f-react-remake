@@ -40,23 +40,23 @@ This is an unofficial fan-made redesign created for learning and portfolio purpo
 
 
 
-\## Screenshots
+## Screenshots
 
 
 
-\### Hero Section
+### Hero Section
 
 
 
-!\[Hero section](./screenshots/hero.png)
+![Hero section](./screenshots/hero.png)
 
 
 
-\### Episodes Section
+### Episodes Section
 
 
 
-!\[Episodes section](./screenshots/episodes.png)
+![Episodes section](./screenshots/episodes.png)
 
 
 
