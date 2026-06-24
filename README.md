@@ -14,21 +14,14 @@ Built with React, TypeScript, Vite, ReactBits, Font Awesome, HTML and CSS.
 
 
 
-- Horror-inspired landing page
-
-- Animated Dock navigation
-
-- Spotlight episode cards
-
-- Latest release highlight
-
-- Orbiting tech stack section
-
-- Official links/community section
-
-- Responsive design
-
-- Fan-made disclaimer
+* Horror-inspired landing page
+* Animated Dock navigation
+* Spotlight episode cards
+* Latest release highlight
+* Orbiting tech stack section
+* Official links/community section
+* Responsive design
+* Fan-made disclaimer
 
 
 
@@ -60,6 +53,13 @@ This is an unofficial fan-made redesign created for learning and portfolio purpo
 
 
 
+<<<<<<< HEAD
 ## Live Demo
 
 [View Live Site](https://f2f-react-remake.vercel.app/)
+=======
+\## Live Demo
+
+\[View Live Site](https://f2f-react-remake.vercel.app/)
+
+>>>>>>> fe39112 (Lade till en Live Site med hjälp av Vercel)
