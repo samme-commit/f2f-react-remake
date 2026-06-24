@@ -53,13 +53,6 @@ This is an unofficial fan-made redesign created for learning and portfolio purpo
 
 
 
-<<<<<<< HEAD
 ## Live Demo
 
 [View Live Site](https://f2f-react-remake.vercel.app/)
-=======
-\## Live Demo
-
-\[View Live Site](https://f2f-react-remake.vercel.app/)
-
->>>>>>> fe39112 (Lade till en Live Site med hjälp av Vercel)
