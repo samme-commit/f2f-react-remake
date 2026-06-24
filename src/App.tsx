@@ -12,7 +12,6 @@ import {
   faShirt,
   faRadio,
   faVideo,
-  faBell,
   faBuilding,
   faHeadphones,
   faUsers,
@@ -486,37 +485,6 @@ function App() {
               ))}
             </div>
           </div>
-
-          <SpotlightCard
-            className="updates-card"
-            spotlightColor="rgba(239, 68, 68, 0.18)"
-          >
-            <div>
-              <p className="eyebrow">Archive updates</p>
-              <h3>Receive new case alerts</h3>
-              <p>
-                A fake newsletter-style component for practicing forms and UI states in
-                React. Later, this can be connected to state and validation.
-              </p>
-            </div>
-
-            <form
-              className="updates-form"
-              onSubmit={(event) => {
-                event.preventDefault();
-              }}
-            >
-              <label htmlFor="email">Email address</label>
-
-              <div>
-                <input id="email" type="email" placeholder="you@example.com" />
-                <button type="submit">
-                  Notify me
-                  <FontAwesomeIcon icon={faBell} />
-                </button>
-              </div>
-            </form>
-          </SpotlightCard>
         </section>
 
         <footer className="footer">
